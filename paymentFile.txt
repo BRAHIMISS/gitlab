@@ -1,2 +1,4 @@
 this file is created by another user 
 we will try to synchronize with local Repository
+
+i will create a conflict to see how git will rrsolve it
