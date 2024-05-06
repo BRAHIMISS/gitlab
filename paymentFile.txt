@@ -3,3 +3,5 @@ we will try to synchronize with local Repository
 *****
 
 second change of this file 
+
+i will create a conflict to see how git will rrsolve it
